@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20530" started-at="2019-06-03T12:33:49Z" finished-at="2019-06-03T12:34:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20530" started-at="2019-06-03T12:33:49Z" finished-at="2019-06-03T12:34:10Z">
+      <class name="FlightApp.FlightApp.SelectFlightsTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:FlightApp.FlightApp.SelectFlightsTest@15eef3d]" name="launchBrowser" is-config="true" duration-ms="13441" started-at="2019-06-03T14:33:49Z" finished-at="2019-06-03T14:34:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="selectToDropDown()[pri:0, instance:FlightApp.FlightApp.SelectFlightsTest@15eef3d]" name="selectToDropDown" duration-ms="7064" started-at="2019-06-03T14:34:03Z" finished-at="2019-06-03T14:34:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectToDropDown -->
+      </class> <!-- FlightApp.FlightApp.SelectFlightsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
